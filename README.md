@@ -6,7 +6,7 @@ Add IoTcpdfBundle in your composer.json:
 ```js
 {
     "require": {
-        "gayalab/tcpdfbundle": "dev-master"
+        "meilon/tcpdfbundle": "dev-master"
     }
 }
 ```
@@ -17,7 +17,7 @@ Now tell composer to download the bundle by running the command:
 $ php composer.phar update
 ```
 
-Composer will install the bundle to your project's `vendor/gayalab` directory.
+Composer will install the bundle to your project's `vendor/meilon` directory.
 
 ### Step 2: Enable the bundle
 
